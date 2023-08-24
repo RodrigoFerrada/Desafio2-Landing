@@ -1,0 +1,79 @@
+header {
+  height: 12rem;
+  background-image: url("../img/BackgroundImage.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 10px;
+  font-size: 2em;
+  margin: 0px;
+}
+
+.text1 {
+  margin-bottom: 0%;
+  font-style: normal;
+}
+
+.text2 {
+  margin-bottom: 0%;
+  position: relative;
+  top: -1.2em;
+  font-style: italic;
+}
+main {
+  padding: 5px;
+  border: 10px;
+  background-color: thistle;
+}
+
+article {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  height: 160px;
+}
+
+.products {
+  width: 20rem;
+}
+
+.description {
+  text-align: left;
+  width: 30%;
+  position: relative;
+  top: 60px;
+}
+
+.tamaño {
+  width: 30%;
+  height: 110px;
+}
+
+section {
+  padding: 5px;
+  background-color: pink;
+  border: 5px;
+}
+footer {
+  background-color: thistle;
+  font-size: 1em;
+}
+
+.centrar {
+  display: flex;
+  justify-content: center;
+  padding: 0%;
+}
+
+.logo {
+  width: 2em;
+  height: 2em;
+}
+
+.right {
+  text-align: right;
+  font-size: 1.5em;
+  position: relative;
+  bottom: 2rem;
+  height: 1em;
+}
